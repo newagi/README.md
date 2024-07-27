@@ -92,4 +92,4 @@ Continuous Improvement (2026 Q3 onwards)
     Community and Open Source:
         Engage with the open-source community for feedback and contributions.
 
-For detailed information, visit the ezAGI GitHub repository.
+For detailed development information visit the [https://github.com/easyAGI/ezAGI](https://github.com/easyglm/ezagi) GitHub repository
